@@ -11,6 +11,7 @@ Tinkering with things · Helping open source projects write better docs · Cat d
 | [home-assistant-frigidaire](https://github.com/bm1549/home-assistant-frigidaire/pull/123) | Rewrote README with HACS/manual install + troubleshooting |
 | [saasmail](https://github.com/choyiny/saasmail/issues/166) | Suggested first-run scanning improvements |
 | [qvac](https://github.com/tetherto/qvac/issues/2790) | Proposed "Choose your path" onboarding (adopted) |
+| [node-versatiles-container](https://github.com/versatiles-org/node-versatiles-container/pull/46) | Expanded README with 5 real-world usage examples |
 
 ### ⏳ Open / Pending
 
